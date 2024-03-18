@@ -29,7 +29,7 @@ Accédez au quiz sur https://joinmyquiz.com
     - Q2 - Le coût du stockage a énormément augmenter en raison d’une pénurie de composants, quels sont les 2 applications qui impactent le plus les dépenses de l’entreprises de ce fait ? 
     - Q3 - Internet explorer sera bientôt dé-commissionné. Quels sont les risques encourus par mon SI ? 
     - Q4 - Comparez la couverture fonctionnelle (l'empreinte) des 2 applications MS O365 et MS Project Server
--	Vous disposez de 15 minutes pour rechercher une réponse à la question qui vous est posée dans l'outil de capitalisation d'architecture d'entreprise EssentialViewer disponible à l'adresse suivante https://essentialviewer.com
+-	Vous disposez de 15 minutes pour rechercher une réponse à la question qui vous est posée dans le site démo de l'outil de capitalisation d'architecture d'entreprise EssentialViewer disponible à l'adresse suivante https://essentialviewer.com
 -	Quand vous pensez avoir trouvé la bonne réponse, faites vérifier votre réponse auprès du professeur.
 -	Le premier groupe à avoir répondu avec succès aux 4 questions aura l’opportunité de présenter les résultats de son étude au DSI.
 
