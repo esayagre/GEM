@@ -12,6 +12,7 @@
 ## A1 – Quizz d’évaluation des compétences informatiques
 Accédez au quiz sur https://joinmyquiz.com 
 
+
 🔻
 
 ## A2 - Découverte d’un référentiel d’architecture d’entreprise
@@ -22,7 +23,7 @@ Accédez au quiz sur https://joinmyquiz.com
 
 ### Description de l’activité
 -	Par groupe de 4 personnes
--	Contexte : 4 postes d’architectes sont ouverts dans l’entreprise dans laquelle vous intervenez et tous les groupes sont mis en concurrence pour obtenir ce poste. Le DSI vous pose 4 questions à chacun des groupes auxquelles vous devez essayer 
+-	Contexte : 4 postes d’architectes sont ouverts dans l’entreprise dans laquelle vous intervenez et tous les groupes sont mis en concurrence pour obtenir ce poste. Le DSI vous pose 4 questions à chacun des groupes auxquelles vous devez essayer de répondre.
 -	Le DSI vous pose ces 4 questions :
     - Q1 - Quels sont les 2 domaines métiers les moins bien digitalisés (c'est-à-dire les moins pourvus en outil efficace) ?
     - Q2 - Pouvez-vous me décrire la stratégie applicative qui a été adoptée pour mieux gérer la télérelève des compteurs (Meter Management) ?
