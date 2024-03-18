@@ -26,7 +26,7 @@ Accédez au quiz sur https://joinmyquiz.com
 -	Contexte : 4 postes d’architectes sont ouverts dans l’entreprise dans laquelle vous intervenez et tous les groupes sont mis en concurrence pour obtenir ce poste. Le DSI pose 4 questions à chacun des groupes auxquelles vous devez essayer de répondre en lui présentant la vue la plus appropriée.
 -	Le DSI vous pose ces 4 questions :
     - Q1 - Quels sont les 2 domaines métiers les moins bien digitalisés (c'est-à-dire les moins pourvus en outil efficace) ?
-    - Q2 - Le coût du stockage a énormément augmenter en raison d’une pénurie de composants, quels sont les 2 applications qui impactent le plus les dépenses de l’entreprises de ce fait ? 
+    - Q2 - Le coût du stockage a énormément augmenté en raison d’une pénurie de composants, quels sont les 2 applications qui impactent le plus les dépenses de l’entreprises de ce fait ? 
     - Q3 - Internet explorer sera bientôt dé-commissionné. Quels sont les risques encourus par mon SI ? 
     - Q4 - Comparez la couverture fonctionnelle (l'empreinte) des 2 applications MS O365 et MS Project Server
 -	Vous disposez de 15 minutes pour rechercher une réponse à la question qui vous est posée dans le site démo de l'outil de capitalisation d'architecture d'entreprise EssentialViewer disponible à l'adresse suivante https://essentialviewer.com
