@@ -23,14 +23,14 @@ Accédez au quiz sur https://joinmyquiz.com
 
 ### Description de l’activité
 -	Par groupe de 4 personnes
--	Contexte : 4 postes d’architectes sont ouverts dans l’entreprise dans laquelle vous intervenez et tous les groupes sont mis en concurrence pour obtenir ce poste. Le DSI pose 4 questions à chacun des groupes auxquelles vous devez essayer de répondre.
+-	Contexte : 4 postes d’architectes sont ouverts dans l’entreprise dans laquelle vous intervenez et tous les groupes sont mis en concurrence pour obtenir ce poste. Le DSI pose 4 questions à chacun des groupes auxquelles vous devez essayer de répondre en lui présentant la vue la plus appropriée.
 -	Le DSI vous pose ces 4 questions :
     - Q1 - Quels sont les 2 domaines métiers les moins bien digitalisés (c'est-à-dire les moins pourvus en outil efficace) ?
-    - Q2 - Pouvez-vous me décrire la stratégie applicative qui a été adoptée pour mieux gérer la télérelève des compteurs (Meter Management) ?
+    - Q2 - Le coût du stockage a énormément augmenter en raison d’une pénurie de composants, quels sont les 2 applications qui impactent le plus les dépenses de l’entreprises de ce fait ? 
     - Q3 - Internet explorer sera bientôt dé-commissionné. Quels sont les risques encourus par mon SI ? 
     - Q4 - Comparez la couverture fonctionnelle (l'empreinte) des 2 applications MS O365 et MS Project Server
--	Vous disposez de 15 minutes pour rechercher la réponse à la question qui vous est posée dans l'outil de capitalisation d'architecture d'entreprise EssentialViewer disponible à l'adresse suivante https://essentialviewer.com
--	Chaque fois que vous pensez avoir trouvé la bonne réponse, faites vérifier votre réponse auprès du professeur.
+-	Vous disposez de 15 minutes pour rechercher une réponse à la question qui vous est posée dans l'outil de capitalisation d'architecture d'entreprise EssentialViewer disponible à l'adresse suivante https://essentialviewer.com
+-	Quand vous pensez avoir trouvé la bonne réponse, faites vérifier votre réponse auprès du professeur.
 -	Le premier groupe à avoir répondu avec succès aux 4 questions aura l’opportunité de présenter les résultats de son étude au DSI.
 
 🔻
