@@ -79,8 +79,9 @@ Accédez au quiz sur https://joinmyquiz.com
 *	Réfléchir au découpage d'une architecture logicielle
 *	Représenter une architecture logicielle
 ### Description de l’activité
-- A venir	
-
+*	Tenter de représenter un schéma général applicatif de la solution de l’Espace Numérique de Santé
+*	Adresser la problématique sous l’angle d’une architecture microservices en traitant séparément l’Agenda, la Messagerie, la Gestion des documents, le Store d’applications, l’authentification…
+*	Libre choix du diagramme
 🔻
 
 ## A7 – Architecture d'intégration - choisir le meilleur mode de communication entre chaque brique logicielle
@@ -88,7 +89,8 @@ Accédez au quiz sur https://joinmyquiz.com
 *	Questionner les différents modes d'échanges (Requête, Message, BDD, Fichier)
 *	Apprendre à se poser les bonnes questions
 ### Description de l’activité
-* A venir 
+*    Dans le contexte du projet fil rouge, x applications sont nécessaires et communiquent entre elles.
+*    Relier les différentes briques suivantes et de choisir pour chaque échange le mode d’échange le plus approprié : RNIAM, Plateforme éditique courrier et mail, Plateforme d’Enrôlement et de Gestion des campagnes de communication, Socle de l’Espace Numérique de Santé, Dossier Médical Partagé (application pré-existante), Application mobile Mon Espace Santé.
 
 🔻
 
@@ -96,9 +98,14 @@ Accédez au quiz sur https://joinmyquiz.com
 
 ### Objectifs & critères d'évaluation
 - Etudier en groupe les solutions d'architecture à apporter pour répondre à un critère de **qualité logicielle**
-- Vous serez évalués en groupe sur la **qualité de vos arguements**
-- Vous serez évalués individuellement sur votre **aisance à l'oral et votre capacité à expliquer votre sujet**
-- Vous serez évalués en groupe sur votre **respect du sujet et la façon de le raccrocher à des éléments abordés en cours**
+
+Vous serez évalués sur : 
+- Qualité de la synthèse du contexte et compréhension des enjeux
+- Clarté des visuels présentés, liens logiques correctement représentés
+- Qualité des exemples, des connaissances théoriques et des pratiques professionnelles
+- Qualité de communication, expression, écoute, prise de position, prise de hauteur et pertinence des réponses aux questions
+- Opérationnalité, réalisme et  applicabilité de la réponse proposée
+
 
 ### Consigne
 - Activité à faire en groupe
