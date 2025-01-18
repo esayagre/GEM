@@ -1,5 +1,5 @@
 # Cours Architecture de Systèmes d’Information
-**Travaux Dirigés 2024 - Eric SAYA**
+**Travaux Dirigés 2025 - Eric SAYA**
 
 
 > 💬 Votre travail va remplir une grande partie de votre vie, et la seule façon d'être vraiment satisfait est de faire ce que vous croyez être un grand travail. Et la seule façon de faire un grand travail est d'aimer ce que vous faites.
